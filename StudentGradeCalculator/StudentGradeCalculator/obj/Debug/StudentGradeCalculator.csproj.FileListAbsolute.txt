@@ -1,0 +1,25 @@
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\Assignment Six Folder\StudentGradeCalculator\StudentGradeCalculator\bin\Debug\StudentGradeCalculator.exe.config
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\Assignment Six Folder\StudentGradeCalculator\StudentGradeCalculator\bin\Debug\StudentGradeCalculator.exe
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\Assignment Six Folder\StudentGradeCalculator\StudentGradeCalculator\bin\Debug\StudentGradeCalculator.pdb
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\Assignment Six Folder\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\StudentGradeCalculator.csprojAssemblyReference.cache
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\Assignment Six Folder\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\StudentGradeCalculator.frmStudentGradeCalculator.resources
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\Assignment Six Folder\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\StudentGradeCalculator.Properties.Resources.resources
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\Assignment Six Folder\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\StudentGradeCalculator.csproj.GenerateResource.cache
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\Assignment Six Folder\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\StudentGradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\Assignment Six Folder\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\StudentGradeCalculator.exe
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\Assignment Six Folder\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\StudentGradeCalculator.pdb
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\Assignment Six Folder\StudentGradeCalculator\StudentGradeCalculator\bin\Debug\SchoolData.mdf
+C:\Users\Samuel Greenlee\OneDrive - Southeast Community College\School (SCC)\Classes\C#.Net\Assignments\Assignment Six Folder\StudentGradeCalculator\StudentGradeCalculator\bin\Debug\SchoolData_log.ldf
+C:\Users\sgree\Desktop\Assignment Six Folder\StudentGradeCalculator\StudentGradeCalculator\bin\Debug\SchoolData.mdf
+C:\Users\sgree\Desktop\Assignment Six Folder\StudentGradeCalculator\StudentGradeCalculator\bin\Debug\SchoolData_log.ldf
+C:\Users\sgree\Desktop\Assignment Six Folder\StudentGradeCalculator\StudentGradeCalculator\bin\Debug\StudentGradeCalculator.exe.config
+C:\Users\sgree\Desktop\Assignment Six Folder\StudentGradeCalculator\StudentGradeCalculator\bin\Debug\StudentGradeCalculator.exe
+C:\Users\sgree\Desktop\Assignment Six Folder\StudentGradeCalculator\StudentGradeCalculator\bin\Debug\StudentGradeCalculator.pdb
+C:\Users\sgree\Desktop\Assignment Six Folder\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\StudentGradeCalculator.csproj.AssemblyReference.cache
+C:\Users\sgree\Desktop\Assignment Six Folder\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\StudentGradeCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\sgree\Desktop\Assignment Six Folder\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\StudentGradeCalculator.frmStudentGradeCalculator.resources
+C:\Users\sgree\Desktop\Assignment Six Folder\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\StudentGradeCalculator.Properties.Resources.resources
+C:\Users\sgree\Desktop\Assignment Six Folder\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\StudentGradeCalculator.csproj.GenerateResource.cache
+C:\Users\sgree\Desktop\Assignment Six Folder\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\StudentGradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\sgree\Desktop\Assignment Six Folder\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\StudentGradeCalculator.exe
+C:\Users\sgree\Desktop\Assignment Six Folder\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\StudentGradeCalculator.pdb
